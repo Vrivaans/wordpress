@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordpress", "wordpress\wordpress.csproj", "{5FBE3BC2-BB55-4027-AE57-1D779D66D325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FBE3BC2-BB55-4027-AE57-1D779D66D325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBE3BC2-BB55-4027-AE57-1D779D66D325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBE3BC2-BB55-4027-AE57-1D779D66D325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBE3BC2-BB55-4027-AE57-1D779D66D325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D143B2-BEE9-45A0-AEB7-E3042E2C6639}
+	EndGlobalSection
+EndGlobal
